@@ -14,5 +14,3 @@ For an example, please run ```example.py``` and note the arguments used to defin
 # Example Route
 
 ![Example Route](./img/example_route.png)
-
-[View Example Route Map](https://michaelcallahan.github.io/optimal_route/html/route_map.html)
